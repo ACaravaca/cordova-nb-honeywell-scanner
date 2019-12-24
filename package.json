@@ -1,0 +1,29 @@
+{
+	"name": "cordova-nb-honeywell-scanner",
+	"version": "1.0.0",
+	"description": "Correction of neo9/cordova-honeywell-scanner plugin to use EAN8, EAN13...",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ACaravaca/cordova-nb-honeywell-scanner.git"
+	},
+	"keywords": [
+		"ecosystem:cordova",
+		"cordova-android",
+		"honeywell",
+		"aidc",
+		"scanner",
+		"plugin",
+		"com.honeywell.aidc",
+		"sdk"
+	],
+	"author": "angel.netberry@gmail.com",
+	"license": "ISC",
+	"bugs": {
+	  "url": "https://github.com/ACaravaca/cordova-nb-honeywell-scanner/issues"
+	},
+	"homepage": "https://github.com/ACaravaca/cordova-nb-honeywell-scanner#readme"
+}
