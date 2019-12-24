@@ -1,3 +1,5 @@
+> Correction of neo9/cordova-honeywell-scanner plugin: https://github.com/neo9/cordova-honeywell-scanner
+
 > Cordova plugin for honeywell barcode reader using [AidcSDK](http://download.salamandre.tm.fr/api/com/honeywell/aidc/package-summary.html)
 
 ## Supported Platforms
