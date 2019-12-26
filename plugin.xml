@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 	id="cordova-nb-honeywell-scanner"
-	version="1.0.0">
+	version="1.0.1">
 
 	<name>Honeywell AIDC Barcode Scanner</name>
 	<description>Correction of neo9/cordova-honeywell-scanner plugin to use EAN8, EAN13...</description>
