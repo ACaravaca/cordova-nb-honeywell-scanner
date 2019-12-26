@@ -89,6 +89,8 @@ public class Aidc extends CordovaPlugin implements BarcodeListener {
                         barcodeReader.setProperty(BarcodeReader.PROPERTY_EAN_8_CHECK_DIGIT_TRANSMIT_ENABLED, true);
                         barcodeReader.setProperty(BarcodeReader.PROPERTY_EAN_13_ENABLED, true);
                         barcodeReader.setProperty(BarcodeReader.PROPERTY_EAN_13_CHECK_DIGIT_TRANSMIT_ENABLED, true);
+                        barcodeReader.setProperty(BarcodeReader.PROPERTY_UPC_A_TRANSLATE_EAN13, true);
+
                     } catch (UnsupportedPropertyException e) {
                         callbackContext.error(e.getMessage());
                     }
